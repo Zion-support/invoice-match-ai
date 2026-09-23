@@ -17,7 +17,6 @@ AI invoice-to-PO matching and duplicate-billing detector — part of the **Zion 
 - [field-safety-brief](https://github.com/Zion-support/field-safety-brief) — https://ziontechgroup.com/field-safety-brief/
 - [fleet-fuel-optimizer](https://github.com/Zion-support/fleet-fuel-optimizer) — https://ziontechgroup.com/fleet-fuel-optimizer/
 - [technician-coach-ai](https://github.com/Zion-support/technician-coach-ai) — https://ziontechgroup.com/technician-coach-ai/
-- [spare-price-scout](https://github.com/Zion-support/spare-price-scout) — https://ziontechgroup.com/spare-price-scout/
 
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
